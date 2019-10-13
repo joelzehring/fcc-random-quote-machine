@@ -3,7 +3,16 @@
 /* ----------------------------- */
 
 body {
-    font-family: 'Livvic', sans-serif, Arial, Helvetica, sans-serif;
+  font-family: sans-serif, Arial, Helvetica, sans-serif;
+	height: 100%;
+	background-color: black;
+	color: white;
+}
+
+#quote-box {
+	background-color: rgb(48, 48, 48);
+	border-radius: .5em;
+	padding: 1em;
 }
 
 
