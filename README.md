@@ -1,4 +1,4 @@
-#fcc Random Quote Machine
+# fcc Random Quote Machine
 
 *by Joel Zehring*
 
